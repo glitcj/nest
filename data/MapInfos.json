@@ -75,5 +75,5 @@ null,
 {"id":73,"expanded":true,"name":"Scene 2-4","order":63,"parentId":68,"scrollX":1040.5714285714284,"scrollY":604.2857142857142,"quick":false},
 {"id":74,"expanded":true,"name":"Scene 3-4","order":67,"parentId":70,"scrollX":1040.5714285714284,"scrollY":604.2857142857142,"quick":false},
 {"id":75,"expanded":false,"name":"Game 2 - 5","order":64,"parentId":68,"scrollX":1040.5714285714284,"scrollY":600.8571428571428},
-{"id":76,"expanded":false,"name":"Game 4 - 5","order":73,"parentId":69,"scrollX":1045.7142857142856,"scrollY":1944.8571428571427}
+{"id":76,"expanded":false,"name":"Game 4 - 5","order":73,"parentId":69,"scrollX":1040.5714285714284,"scrollY":1087.7142857142856}
 ]
