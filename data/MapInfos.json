@@ -64,7 +64,7 @@ null,
 {"id":62,"expanded":true,"name":"Tests","order":76,"parentId":0,"scrollX":1476,"scrollY":1047.6},
 {"id":63,"expanded":false,"name":"MAP063","order":59,"parentId":49,"scrollX":1040.5714285714284,"scrollY":582,"quick":false},
 {"id":64,"expanded":true,"name":"Level 0: Base - 4","order":35,"parentId":7,"scrollX":1456.8,"scrollY":814.8},
-{"id":65,"expanded":true,"name":"Scene 4-4","order":72,"parentId":69,"scrollX":1040.5714285714284,"scrollY":582,"quick":false},
+{"id":65,"expanded":true,"name":"Scene 4-4","order":72,"parentId":69,"scrollX":1040.5714285714284,"scrollY":695.1428571428571,"quick":false},
 {"id":66,"expanded":true,"name":"S 1-5: First Confession","order":56,"parentId":67,"scrollX":848,"scrollY":640,"quick":false},
 {"id":67,"expanded":true,"name":"Scenes 1: Hedon","order":53,"parentId":51,"scrollX":0,"scrollY":0,"quick":false},
 {"id":68,"expanded":true,"name":"Scenes 2: Maddened","order":60,"parentId":51,"scrollX":0,"scrollY":0,"quick":false},
@@ -75,5 +75,5 @@ null,
 {"id":73,"expanded":true,"name":"Scene 2-4","order":63,"parentId":68,"scrollX":1040.5714285714284,"scrollY":604.2857142857142,"quick":false},
 {"id":74,"expanded":true,"name":"Scene 3-4","order":67,"parentId":70,"scrollX":1040.5714285714284,"scrollY":604.2857142857142,"quick":false},
 {"id":75,"expanded":false,"name":"Game 2 - 5","order":64,"parentId":68,"scrollX":1040.5714285714284,"scrollY":600.8571428571428},
-{"id":76,"expanded":false,"name":"Game 4 - 5","order":73,"parentId":69,"scrollX":1568.5714285714284,"scrollY":695.1428571428571}
+{"id":76,"expanded":false,"name":"Game 4 - 5","order":73,"parentId":69,"scrollX":1045.7142857142856,"scrollY":1944.8571428571427}
 ]
